@@ -161,15 +161,16 @@
     autoplay: true,
     dots: true,
     loop: true,
+    margin: 25,
     responsive: {
       0: {
-        items: 1
+        items: 2
       },
       768: {
-        items: 1
+        items: 3
       },
       900: {
-        items: 2
+        items: 5
       }
     }
   });
