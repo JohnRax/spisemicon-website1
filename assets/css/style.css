@@ -1736,3 +1736,14 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.story-intro .content ul i {
+  font-size: 20px;
+  padding-right: 4px;
+  color: #006fbe;
+}
+
+.story-intro .content ul {
+  list-style: none;
+  padding: 0;
+}
